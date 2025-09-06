@@ -1,9 +1,9 @@
 #  Demo
-To-Do list Application that note tasks which have to be done
+To-Do list Application that note's tasks which have to be done
 # Features
-<l>
-Add 
-<br> Delete </br>
-<br> Mark as done </br> 
-<br> Update </br>
-</l>
+<ul>
+<li> Add 
+<li> Delete </li>
+<li> Mark as done </li>
+<li> Update </li>
+<ul>
