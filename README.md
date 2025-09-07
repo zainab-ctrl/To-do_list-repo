@@ -1,5 +1,7 @@
 #  Demo
-To-Do list Application that note's tasks which have to be done
+
+It contain's list of tasks which have to be done or had done
+
 # Features
 <ul>
 <li> Add 
