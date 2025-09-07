@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Projects",
+        "Status": false
+    },
+    {
+        "task": "Coding",
+        "Status": false
+    },
+    {
+        "task": "Sleep",
+        "Status": false
+    },
+    {
+        "task": "Happy",
+        "Status": true
+    }
+]
